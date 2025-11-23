@@ -34,7 +34,7 @@ Se diseñaron bocetos preliminares para definir la narrativa visual.
 
 | Mockup Inicial | Dashboard Final en Power BI |
 |:---:|:---:|
-| ![Mockup](Mockup.png) | ![Dashboard](Dashboard.png) |
+| ![Mockup](Imagenes/Mockup.png) | ![Dashboard](Imagenes/Dashboard.png) |
 
 ---
 
