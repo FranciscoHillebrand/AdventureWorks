@@ -30,7 +30,6 @@ Se documentó cada variable utilizada para garantizar la transparencia del anál
 
 ### 🖌️ Mockups vs. Resultado Final
 Se diseñaron bocetos preliminares para definir la narrativa visual.
-*(Aquí puedes subir tus imágenes de los mockups y del dashboard final)*
 
 | Mockup Inicial | Dashboard Final en Power BI |
 |:---:|:---:|
