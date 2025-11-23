@@ -1,0 +1,16 @@
+# --- Archivos de Sistema (Windows) ---
+desktop.ini
+Thumbs.db
+$RECYCLE.BIN/
+
+# --- Archivos Temporales de Office/Power BI ---
+# Estos son los archivos que empiezan con ~$ que se crean cuando tienes el archivo abierto
+~$*
+
+# --- SQL Server (Opcional) ---
+# Por seguridad, para no subir logs o bases de datos activas (mdf/ldf) por error
+*.mdf
+*.ldf
+
+# --- Archivos de recuperación de Power BI ---
+*.pbix.tmp
