@@ -73,9 +73,9 @@ Tras el procesamiento de los datos, se obtuvieron conclusiones clave para la est
 ## 📁 Estructura del Repositorio
 
 * `AdventureWorksDW2019`: Archivo `.bak` .
-* `Informe.pdf`:
+* `Informe.pdf`: Informe ejecutivo detallado con hallazgos y narrativa.
 * `/Imagenes`: Capturas de los Mockups y el Dashboard final.
-* `Dashboard.pbix`: Informe ejecutivo detallado con hallazgos y narrativa.
+* `Dashboard.pbix`: Archivo fuente del tablero.
 
 ---
 **Autor:** Francisco Javier Hillebrand
